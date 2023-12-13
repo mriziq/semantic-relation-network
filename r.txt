@@ -1,0 +1,5 @@
+gensim
+networkx
+scipy
+pyvis
+matplotlib
